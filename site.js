@@ -56,9 +56,9 @@ let questions = [
   },
   {
     id: 8,
-    question: "3)	How do you feel when you enter into the room full of people? ",
+    question: "How do you feel when you enter into the room full of people? ",
   
-    options: ["a)	I feel confident and empowered",
+    options: ["I feel confident and empowered",
     "Nothing",
     "I feel awkward"],
   },
